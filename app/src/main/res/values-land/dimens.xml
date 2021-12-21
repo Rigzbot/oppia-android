@@ -390,4 +390,7 @@
   <dimen name="section_title_text_view_layout_margin_top">28dp</dimen>
   <dimen name="section_title_text_view_layout_margin_end">72dp</dimen>
 
+  <!-- TopicRevisionSummary -->
+  <dimen name="topic_revision_summary_card_layout_margin_start">16dp</dimen>
+  <dimen name="topic_revision_summary_card_layout_margin_end">16dp</dimen>
 </resources>

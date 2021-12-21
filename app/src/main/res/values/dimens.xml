@@ -588,4 +588,10 @@
   <dimen name="section_title_text_view_layout_margin_top">28dp</dimen>
   <dimen name="section_title_text_view_layout_margin_end">32dp</dimen>
 
+  <!-- TopicRevisionSummary -->
+  <dimen name="topic_revision_summary_card_layout_margin_start">8dp</dimen>
+  <dimen name="topic_revision_summary_card_layout_margin_end">8dp</dimen>
+  <dimen name="topic_revision_summary_card_layout_margin_top">12dp</dimen>
+  <dimen name="topic_revision_summary_text_view_padding_start">8dp</dimen>
+  <dimen name="topic_revision_summary_text_view_padding_end">8dp</dimen>
 </resources>
